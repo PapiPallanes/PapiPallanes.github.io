@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:Pallanes09@outlook.com"
+       url: "mailto:Pallanes09@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -132,7 +132,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/_pallanes_"
+       url: "https://twitter.com/_pallanes_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
