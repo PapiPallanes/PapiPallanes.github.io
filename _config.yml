@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Alejandro Pallanes"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ProfilePhotoCropped.jpg"
   bio              : "Sound Designer looking for work in both Interactive and Linear Media."
   location         : "Austin, Texas"
   email            :
