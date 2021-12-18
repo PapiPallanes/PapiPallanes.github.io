@@ -300,7 +300,7 @@ defaults:
       share: true
       
 #collections
-  collections:
-    portfolio:
-      output: true
-      permalink: /:collection/:path/
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
