@@ -1,4 +1,5 @@
 ---
+site_title: ""
 title: "Alejandro Pallanes Sound Design"
 layout: splash
 header: 
