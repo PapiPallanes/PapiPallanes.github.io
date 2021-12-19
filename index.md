@@ -1,4 +1,5 @@
 ---
+head: ""
 title: "Alejandro Pallanes Sound Design"
 layout: splash
 header: 
