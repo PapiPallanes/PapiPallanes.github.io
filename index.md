@@ -1,5 +1,5 @@
 ---
-title: "Thanks for checking out my wesbite!"
+title: ""
 layout: splash
 header: 
   overlay_color: "#000"
