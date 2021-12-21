@@ -12,23 +12,23 @@ feature_row:
   -image_path: "/assets/images/Mario OdysseyFeature.png"
    title: "Mario Odyssey redesign Project"
    excerpt: "A class midterm project, and my first foray into Sound Design."
-   url: ""
+   url: "#test-link"
    btn_label: "See More"
    btn_class: "btn--info"
   -image_path: "/assets/images/cypher-valorantFeature.png"
    title: "Cypher Ability and Vandal Audio Redesign"
    excerpt: "A personal project to work on my synth work and sample layering abilities."
-   url: ""
+   url: "#test-link"
    btn_label: "See more"
    btn_class: "btn--info"
   -image_path: "/assets/images/fiddlesticksFeature.png"
    title: "Fiddlesticks Cinematic Redesign"
    excerpt: "A personal project to practice sample layering and mindfullness of space in the world."
-   url: ""
+   url: "#test-link"
    btn_label: "See more"
    btn_class: "btn--info"
 ---
 
- {% include feature_row id="intro" type="center "%}
+ {% include feature_row id="intro" type="center" %}
  
  {% include feature_row %}
