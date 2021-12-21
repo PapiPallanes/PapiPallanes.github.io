@@ -32,6 +32,8 @@ feature_row2:
     title: "About Me"
     excerpt: "I'm a sound designer eager to work in the audio field. My professional interests include both interactive and passive mediums.
 I've studied for three years at the University of Texas at Austin and decided to take a break to focus on developing my personal portfolio and audio skills.
+
+
 While at UT I discovered a passion for the creation and implementation of video game soundscapes. Here you can find videos I've created to showcase my sound design abilities via redesigns, as well as links to my social medias."
 ---
 
