@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-{% include id="taA4brpoR5Y" provider="youtube" %}
+{% include video id="taA4brpoR5Y" provider="youtube" %}
 
 This Audio redesign was a midterm project that was assigned as a partner project in which one student took the part of "Sound Designer/Mixer" and the other the part of the Composer. I chose the Part of the Sound Designer/Mixer and my partner, Abhay Ram, decided on being the composer. This Project was my first proper foray into Sound Designing and was the work that inspired me to look further into the field and eventually make it my primary focus.
 
