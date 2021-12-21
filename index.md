@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/cypher-valorantSmall.png
     title: "Cypher Ability and Vandal Audio Redesign"
     excerpt: "A personal project to work on my synth work and sample layering abilities."
-    url: "papipallanes.github.io/_portfolio/CypherRedesign"
+    url: "/_portfolio/CypherRedesign"
     btn_label: "See more"
     btn_class: "btn--info"
   - image_path: /assets/images/FiddlesticksSmall.png
