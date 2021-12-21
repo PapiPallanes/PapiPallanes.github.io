@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/Mario OdysseySmall.png
     title: "Mario Odyssey redesign Project"
     excerpt: "A class midterm project, and my first foray into Sound Design."
-    url: "#test-link"
+    url: "/_portfolio/OdysseyProject"
     btn_label: "See More"
     btn_class: "btn--info"
   - image_path: /assets/images/cypher-valorantSmall.png
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/FiddlesticksSmall.png
     title: "Fiddlesticks Cinematic Redesign"
     excerpt: "A personal project to practice sample layering and mindfullness of space in the world."
-    url: "#test-link"
+    url: "/_portfolio/FiddlesticksRedesign"
     btn_label: "See more"
     btn_class: "btn--info"
 ---
