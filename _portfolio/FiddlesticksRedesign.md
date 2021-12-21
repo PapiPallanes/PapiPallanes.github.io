@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-{% include id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 
 ---
 
