@@ -21,7 +21,7 @@ feature_row:
     url: "#test-link"
     btn_label: "See more"
     btn_class: "btn--info"
-  - image_path: /assets/images/fiddlesticksFeature.png
+  - image_path: /assets/images/FiddlesticksFeature.png
     title: "Fiddlesticks Cinematic Redesign"
     excerpt: "A personal project to practice sample layering and mindfullness of space in the world."
     url: "#test-link"
