@@ -31,7 +31,7 @@ feature_row2:
   - image_path: "/assets/images/ProfilePhotoCropped.jpg"
     title: "About Me"
     excerpt: "I'm a sound designer eager to work in the audio field. My professional interests include both interactive and passive mediums.
-I've studied for three years at the University of Texas at Austin and decided to take a break to focus on developing my personal portfolio and audio skills. Here you can find videos I've created to showcase my sound design abilities via redesigns, as well as links to my social medias."
+I've studied for three years at the University of Texas at Austin and decided to take a break to focus on developing my personal portfolio and audio skills."
 ---
 
  {% include feature_row id="intro" type="center" %}
