@@ -7,6 +7,6 @@ author_profile: true
 
 ---
 
-placeholder text
+Redesigning the Fiddlesticks Cinematic was a good bit of practice to work on placing objects within the space of the world, as well as sample sourcing, and layering for the more involved aspects of the cinematic. 
 
-even more placeholder text
+Placeholder for more writeup text as well as link to fleshed out writeup.
