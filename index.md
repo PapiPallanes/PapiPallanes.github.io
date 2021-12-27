@@ -36,7 +36,7 @@ I've studied for three years at the University of Texas at Austin and decided to
 
  {% include feature_row id="intro" type="center" %}
  
- Test for Portfolio  {a href="/_pages/portfolio-archive"} Archive {a/}
+ Test for Portfolio [Archive](/_pages/portfolio-archive)
  
  {% include feature_row %}
 
