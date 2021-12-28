@@ -1,5 +1,5 @@
 ---
-title: portfolio
+title: Audio Redesigns
 layout: collection
 permalink: /portfolio/
 collection: portfolio
