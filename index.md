@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/Mario OdysseySmall.png
     title: "Mario Odyssey redesign Project"
     excerpt: "A class midterm project, and my first foray into Sound Design."
-    url: "/_portfolio/OdysseyProject"
+    url: "/portfolio/OdysseyProject"
     btn_label: "See More"
     btn_class: "btn--info"
   - image_path: /assets/images/cypher-valorantSmall.png
