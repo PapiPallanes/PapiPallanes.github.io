@@ -1,6 +1,11 @@
 ---
-layout: single
-author_profile: true
+title: "Cypher Ability and Vandal Rifle Audio Redesign"
+excerpt: "A personal project to work on my synth work and sample layering abilities."
+header: 
+  image: /assets/images/cypher-valorantFull.jpg
+  teaser: /assets/images/cypher-valorantFeature.png
+sidebar: 
+  author_profile: true
 ---
 
 {% include video id="rp77Sil-7uA" provider="youtube"%}
