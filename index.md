@@ -18,13 +18,13 @@ feature_row:
   - image_path: /assets/images/cypher-valorantSmall.png
     title: "Cypher Ability and Vandal Audio Redesign"
     excerpt: "A personal project to work on my synth work and sample layering abilities."
-    url: "/_portfolio/CypherRedesign"
+    url: "/portfolio/CypherRedesign"
     btn_label: "See more"
     btn_class: "btn--info"
   - image_path: /assets/images/FiddlesticksSmall.png
     title: "Fiddlesticks Cinematic Redesign"
     excerpt: "A personal project to practice sample layering and mindfullness of space in the world."
-    url: "/_portfolio/FiddlesticksRedesign"
+    url: "/portfolio/FiddlesticksRedesign"
     btn_label: "See more"
     btn_class: "btn--info" 
 feature_row2:
