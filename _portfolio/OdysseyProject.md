@@ -2,9 +2,9 @@
 title: "Mario Odyssey Redesign Project"
 excerpt: "A class midterm project, and my first proper foray into sound design"
 header: 
-  image: "/assets/images/Mario OdysseyFull.jpg"
-  teaser: "/assets/images/Mario OdysseyFeature.png"
-Author_profile: true
+  image: /assets/images/Mario OdysseyFull.jpg
+  teaser: /assets/images/Mario OdysseyFeature.png
+author_profile: true
 ---
 
 {% include video id="taA4brpoR5Y" provider="youtube" %}
