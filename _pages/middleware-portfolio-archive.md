@@ -1,8 +1,8 @@
 ---
 title: Audio Implementation work
 layout: collection
-permalink: /implementationportfolio/
-collection: portfolio
+permalink: /implementation/
+collection: implementationportfolio
 entries_layout: grid
 author_profile: true
 ---
