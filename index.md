@@ -21,12 +21,6 @@ feature_row:
     url: "/implementation"
     btn_label: "See more"
     btn_class: "btn--info"
-  - image_path: /assets/images/FiddlesticksSmall.png
-    title: "Fiddlesticks Cinematic Redesign"
-    excerpt: "A personal project to practice sample layering and mindfullness of space in the world."
-    url: "/portfolio/FiddlesticksRedesign"
-    btn_label: "See more"
-    btn_class: "btn--info" 
 feature_row2:
   - image_path: "/assets/images/ProfilePhotoCropped.jpg"
     title: "About Me"
