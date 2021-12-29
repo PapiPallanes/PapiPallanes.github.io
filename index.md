@@ -9,10 +9,10 @@ excerpt: ""
 intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on. This will include redesigns of gameplay, cinematics, and videos showcasing FMOD and WWise projects."
 feature_row: 
-  - image_path: /assets/images/Mario OdysseySmall.png
+  - image_path: /assets/images/PortfolioFeatureBanner.png
     title: "Mario Odyssey redesign Project"
-    excerpt: "A class midterm project, and my first foray into Sound Design."
-    url: "/portfolio/OdysseyProject"
+    excerpt: "Archive of my personal and school assigned Audio Redesigns to showcase my ability. "
+    url: "/portfolio"
     btn_label: "See More"
     btn_class: "btn--info"
   - image_path: /assets/images/cypher-valorantSmall.png
