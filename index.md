@@ -15,7 +15,7 @@ feature_row:
     url: "/portfolio"
     btn_label: "See More"
     btn_class: "btn--info"
-  - image_path: /assets/images/cypher-valorantSmall.png
+  - image_path: /assets/images/ImplementationBanner.png
     title: "Audio Implementation and middleware Archive"
     excerpt: "Archive showing some of my work within middleware and game engines from FMOD and WWise to Unreal and Unity"
     url: "/implementation"
