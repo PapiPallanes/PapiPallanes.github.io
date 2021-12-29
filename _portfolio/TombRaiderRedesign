@@ -3,9 +3,12 @@ title: "Rise of the Tomb Raider Gameplay Redesign"
 excerpt: "A personal project to work on layering, and gameplay consideration in mixing"
 header: 
   image: /assets/images/RotTRFull.jpg
-  teaser: /assets/images/RottTRFeature.png
+  teaser: /assets/images/RotTRFeature.png
 sidebar: 
   author_profile: true
+---
+
+
 ---
 
 {% include video id="dQw4w9WgXcQ" provider="youtube" %}
