@@ -2,7 +2,9 @@
 title: "Sound Designer for Interactive and Linear media"
 layout: splash
 header: 
-  image: "/assets/images/YeezyCropped.jpg"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "/assets/images/YeezyCropped.jpg"
 excerpt: ""
 intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on. This will include redesigns of gameplay, cinematics, and videos showcasing FMOD and WWise projects."
