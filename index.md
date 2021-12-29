@@ -10,15 +10,15 @@ intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on. This will include redesigns of gameplay, cinematics, and videos showcasing FMOD and WWise projects."
 feature_row: 
   - image_path: /assets/images/PortfolioFeatureBanner.png
-    title: "Mario Odyssey redesign Project"
+    title: "Audio Redesign Archive"
     excerpt: "Archive of my personal and school assigned Audio Redesigns to showcase my ability. "
     url: "/portfolio"
     btn_label: "See More"
     btn_class: "btn--info"
   - image_path: /assets/images/cypher-valorantSmall.png
-    title: "Cypher Ability and Vandal Audio Redesign"
-    excerpt: "A personal project to work on my synth work and sample layering abilities."
-    url: "/portfolio/CypherRedesign"
+    title: "Audio Implementation and middleware Archive"
+    excerpt: "Archive showing some of my work within middleware and game engines from FMOD and WWise to Unreal and Unity"
+    url: "/implementation"
     btn_label: "See more"
     btn_class: "btn--info"
   - image_path: /assets/images/FiddlesticksSmall.png
