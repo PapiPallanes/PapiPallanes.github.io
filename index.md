@@ -37,6 +37,7 @@ I've studied for three years at the University of Texas at Austin and decided to
  {% include feature_row id="intro" type="center" %}
  
  Test for Portfolio [Archive](/portfolio)
+ Test for Implementation [Archive](/implentationportfolio)
  
  {% include feature_row %}
 
