@@ -6,6 +6,7 @@ header:
 author_profile: true
 toc: true
 toc_icon: "headphones"
+toc_sticky: true
 ---
 
 ---
