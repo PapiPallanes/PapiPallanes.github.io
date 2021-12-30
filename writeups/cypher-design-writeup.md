@@ -1,8 +1,13 @@
 ---
 layout: single
 title: "Cypher Ability and Vandal Rifle Redesign Writeup"
+header: 
+  image: /assets/images/YeezyCropped.png
 author_profile: true
 toc: true
+toc_icon: "headphones"
+---
+
 ---
 
 {% include video id="TJpcrGZiZIM" provider="youtube" %}
