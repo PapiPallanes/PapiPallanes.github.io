@@ -21,6 +21,12 @@ feature_row:
     url: "/implementation"
     btn_label: "See more"
     btn_class: "btn--info"
+  - image_path: /assets/images/PortfolioFeatureBannerTemplate.png
+    title: "Placeholder Feature Titles"
+    excerpt: "Placeholder excerpt text"
+    url: "test-link"
+    btn_label: "See more"
+    btn_class: "btn--info"
 feature_row2:
   - image_path: "/assets/images/ProfilePhotoCropped.jpg"
     title: "About Me"
