@@ -19,10 +19,4 @@ I used the ablities and the rifle as a canvas to work on my sample manipulation 
 
 ---
 
-{% include video id="TJpcrGZiZIM" provider="youtube" %}
-
----
-
-Here I do a quick walk and listen through my final project file for the redesign. I also talk about my thought process behind certain decisions for ablities and my ideas for how it should all sound.
-
-Additionally my written walkthrough of this redesign can be found <a href="https://docs.google.com/document/d/1X4P_k-eWFvxTlwSyYkSfqDSHVL4gRprytMOkhu6AP4w/edit?usp=sharing"> here <a/>, including pictures of the abilities being redesigned, Logic Pro X Project file, and Helm patches being used.  
+Additionally a video walkthrough, as well as my written walkthrough of this redesign can be found <a href="/writeups/cypher-design-writeup"> here <a/>, including pictures of the abilities being redesigned, Logic Pro X Project file, and Helm patches being used.  
