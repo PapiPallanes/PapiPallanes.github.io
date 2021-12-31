@@ -30,7 +30,7 @@ Additionally we have miscellaneous sounds like a Camera shutter, to mimic the me
 The second part of the Vandal sounds to remake was the reload, which was pulled from the same sample library the gunshots were sourced from. The most manipulation came in the form of moving around parts of the reload to better fit the look of the vandal and more accurately reflect the apparent materials of the rifle
 
 
-(IMAGE GOES HERE)
+![Vandal Redesign file screenshot](/assets/images/writeup-images/VandalWorkScreenshot.png){: .align-center}
 
 
 # Redesiging Cyphers Abilities
