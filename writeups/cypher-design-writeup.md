@@ -59,19 +59,19 @@ After finishing the cloaking sounds for each ability I went down the line workin
 The first ability I worked on redesigning was the cage. I wanted a kind of "metal mesh" feel when activating the cage. I thought of this primarily because of its look when activated. This sound was achieved by having 2 different Helm patches in which one part was a percussive front end, and a "metal-like, twangy" tail end.
 
 
-![Helm Cage Open Patch](assets/images/writeup-images/HelmCageOpenScreenshot.png){: .align-center}
+![Helm Cage Open Patch](/assets/images/writeup-images/HelmCageOpenScreenshot.png){: .align-center}
 
 
 Something else that I wanted to mess with was using different pitches to change how the sound feels. While I ended up only using 1 of the takes in the final redesign, it's still an idea I find interesting enough to try in future projects.
 
 
-![Helm Cage second open Patch](assets/images/writeup-images/HelmCageScreenshot2.png){: .align-center}
+![Helm Cage second open Patch](/assets/images/writeup-images/HelmCageScreenshot2.png){: .align-center}
 
 
 #### Closing the Cage
 
 
-![Alchemy Preset for Cage](assets/images/writeup-images/AlchemyCageScreenshot.png){: .align-center}
+![Alchemy Preset for Cage](/assets/images/writeup-images/AlchemyCageScreenshot.png){: .align-center}
 
 
 For the close of the cage I went with a resonant hit preset from the Alchemy synthesizer modifying it to make it sound similar to a radio transmission tuning out.
