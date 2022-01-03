@@ -4,6 +4,7 @@ excerpt: "A personal project to work on my synth work and sample layering abilit
 header: 
   image: /assets/images/cypher-valorantFull.jpg
   teaser: /assets/images/cypher-valorantFeature.png
+caption: "Photo Credits: **Riot Games**"
 sidebar: 
   author_profile: true
 ---
