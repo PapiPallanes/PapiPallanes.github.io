@@ -4,6 +4,7 @@ excerpt: "A class midterm project, and my first proper foray into sound design"
 header: 
   image: /assets/images/Mario OdysseyFull.jpg
   teaser: /assets/images/Mario OdysseyFeature.png
+  caption: "Photo Credits: **Nintendo**"
 sidebar: 
   author_profile: true
 ---
