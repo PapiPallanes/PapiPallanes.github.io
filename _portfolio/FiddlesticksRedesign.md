@@ -4,6 +4,7 @@ excerpt: "A personal project to practice sample layering and mindfullness of spa
 header: 
   image: /assets/images/FiddlesticksFull.jpg
   teaser: /assets/images/FiddlesticksFeature.png
+  caption: "Photo Credits: **Riot Games**" 
 sidebar: 
   author_profile: true
 ---
