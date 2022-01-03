@@ -2,9 +2,9 @@
 title: "Cypher Ability and Vandal Rifle Audio Redesign"
 excerpt: "A personal project to work on my synth work and sample layering abilities."
 header: 
-  overlay_image: /assets/images/cypher-valorantFull.jpg
+  image: /assets/images/cypher-valorantFull.jpg
   teaser: /assets/images/cypher-valorantFeature.png
-caption: "Photo Credits: **Riot Games**"
+  caption: "Photo Credits: **Riot Games**"
 sidebar: 
   author_profile: true
 ---
