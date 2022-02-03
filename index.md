@@ -9,6 +9,12 @@ excerpt: ""
 intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on. This will include redesigns of gameplay, cinematics, and videos showcasing FMOD and WWise projects."
 feature_row: 
+ - image_path: /assets/images/PortfolioFeatureBannerTemplate.png
+    title: "Audio Portfolio Reel"
+    excerpt: "Page showcasing my Audio Redesign and Technical Implemenation Reel"
+    url: "/DesignReel"
+    btn_label: "See more"
+    btn_class: "btn--info"
   - image_path: /assets/images/PortfolioFeatureBanner.png
     title: "Audio Redesign Archive"
     excerpt: "Archive of my personal and school assigned Audio Redesigns to showcase my ability. "
@@ -19,12 +25,6 @@ feature_row:
     title: "Audio Implementation and middleware Archive"
     excerpt: "Archive showing some of my work within middleware and game engines from FMOD and WWise to Unreal and Unity"
     url: "/implementation"
-    btn_label: "See more"
-    btn_class: "btn--info"
-  - image_path: /assets/images/PortfolioFeatureBannerTemplate.png
-    title: "Placeholder Feature Titles"
-    excerpt: "Placeholder excerpt text"
-    url: "test-link"
     btn_label: "See more"
     btn_class: "btn--info"
 feature_row2:
