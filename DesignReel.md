@@ -6,3 +6,5 @@ header:
 sidebar: 
   author_profile: true
 ---
+
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
