@@ -33,7 +33,7 @@ The second part of the Vandal sounds to remake was the reload, which was pulled 
 ![Vandal Redesign file screenshot](/assets/images/writeup-images/VandalWorkScreenshot.png){: .align-center}
 
 
-# Redesiging Cyphers Abilities
+# Redesigning Cyphers Abilities
 
 Cypher is centered around stealthy info gathering and cunning tactics to gain the upper hand. His main abilities, barring his ultimate, all feature a “cloaking” aspect. I saw this cloak as a great opportunity to work on my synthesis ability using the free synth helm.
 
