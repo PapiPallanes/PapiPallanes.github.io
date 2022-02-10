@@ -17,4 +17,4 @@ sidebar:
 
 Redesigning the Fiddlesticks Cinematic was a good bit of practice to work on placing objects within the space of the world, as well as sample sourcing, and layering for the more involved aspects of the cinematic. 
 
-Placeholder for more writeup text as well as link to fleshed out writeup.
+A video walkthrough as well as text writeup for this redesign can be found <a href="/writeups/fiddlesticks-design-writeup">here.<a/>
