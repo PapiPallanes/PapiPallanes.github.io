@@ -33,11 +33,11 @@ The second part of the Vandal sounds to remake was the reload, which was pulled 
 ![Vandal Redesign file screenshot](/assets/images/writeup-images/VandalWorkScreenshot.png){: .align-center}
 
 
-# Redesigning Cyphers Abilities
+# Cypher's Invisible Utility
 
-Cypher is centered around stealthy info gathering and cunning tactics to gain the upper hand. His main abilities, barring his ultimate, all feature a “cloaking” aspect. I saw this cloak as a great opportunity to work on my synthesis ability using the free synth helm.
+Cypher is centered around stealthy info gathering and cunning tactics to gain the upper hand. His main abilities, barring his ultimate, all feature an instance in which they "cloak" and go invisible, undetectable unless up close. I saw this cloak as a great opportunity to work on my synthesis ability using the free synth helm.
 
-## Designing the Cloak
+## Cloaking utility
 
 All of the cloaking sounds we're made from the same Helm patch. But manipulated to give each ability it's own distinct cloak. My main idea for the cloak sound was wholly inspired by the predator and uses fading clicks to convey the idea of the item going invisible.
 
@@ -45,12 +45,12 @@ All of the cloaking sounds we're made from the same Helm patch. But manipulated 
 ![Cloak design Helm Patch](/assets/images/writeup-images/HelmCloakScreenshot.png){: .align-center}
 
 
-## Designing the Abilities
+# Designing the Abilities
 
 After finishing the cloaking sounds for each ability I went down the line working on each ability on it's own, focusing on the ability cast, placement, and activation (if applicable)
 
 
-### The Cage
+## The Cage
 
 
 ![Cage Opening Screenshot](/assets/images/writeup-images/CageOpenScreenshot.png){: .align-center}
@@ -68,7 +68,7 @@ Something else that I wanted to mess with was using different pitches to change 
 ![Helm Cage second open Patch](/assets/images/writeup-images/HelmCageScreenshot2.png){: .align-center}
 
 
-#### Closing the Cage
+### Closing the Cage
 
 
 For the close of the cage I went with a resonant hit preset from the Alchemy synthesizer modifying it to make it sound similar to a radio transmission tuning out.
@@ -79,7 +79,7 @@ For the close of the cage I went with a resonant hit preset from the Alchemy syn
 
 The main idea of this sound being used for the cage closing was mainly from the way in which it closes, which reminded me of old CRT TVs turning on/off with the color of the broadcast very quickly turning to white and then immediately to the black slate of the screen. The sound mimics this in there being a burst of "transmission sound" to communicate the cage closing.
 
-### Designing the tripwire
+## The Tripwire
 
 After the Cage sounds I went to redesign the Tripwire and all of its parts. Unlike the cage, most parts of the tripwires redesign are sampled layers.
 
@@ -91,7 +91,7 @@ For the pullout I took the sound of a poker chip tapping wood along with a metal
 
 The idea of a poker chip came directly from Cyphers backstory and reputation as a "high roller" in the universe of Valorant making shady deals and such.
 
-##### Designing the placement of the tripwire
+### Tripwire Placement
 
 Next is the placement of the Trip, which I made with various samples including A piece of metal being scratched on stone to indicate the attached surface, heavily manipulated Air hissing for the deployment, and a camera shutter for the final lock of the mechanism.
 
@@ -100,7 +100,7 @@ Next is the placement of the Trip, which I made with various samples including A
 ![Trip Placement Work Image 3](/assets/images/writeup-images/TripwireSample3.png){: .align-center}
 
 
-#### Designing the tripwire recall. 
+### Tripwire Recall 
 
 ![Tripwire Recall Image](/assets/images/writeup-images/TripwireRecallExample.png){: .align-center}
 
@@ -108,7 +108,7 @@ For the recall of the trip I used a "fusion driver" preset on Alchemy to mimic t
 
 I reversed the original synthesized sound to have it get faster as the tripwire gets close to cyphers glove, to mimic the feeling of a magnetic pull between cyphers glove and the tripwire
 
-### Designing the Camera and it's placement. 
+## Designing the Camera and it's placement. 
 
 Finally for the camera, every part of the sound here is sampled as opposed to the cage, or tripwire. 
 
