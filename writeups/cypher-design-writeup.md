@@ -15,7 +15,7 @@ toc_sticky: true
 
 Here I do a quick walk and listen through my final project file for the redesign. I also talk about my thought process behind certain decisions for ablities and my ideas for how it should all sound.
 
-Below you can find a written out explanation of my design process. 
+Below you can find a written explanation of my design process. 
 
 ---
 
