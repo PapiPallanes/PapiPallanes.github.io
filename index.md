@@ -28,7 +28,7 @@ feature_row:
     btn_label: "See more"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: "/assets/images/ProfileCircle.png
+  - image_path: /assets/images/ProfileCircle.png
     title: "About Me"
     excerpt: "I'm a sound designer eager to work in the audio field. My professional interests include both interactive and passive mediums.
 I've studied for three years at the University of Texas at Austin and decided to take a break to focus on developing my personal portfolio and audio skills."
