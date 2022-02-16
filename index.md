@@ -10,7 +10,7 @@ intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on. This will include redesigns of gameplay, cinematics, and videos showcasing FMOD and WWise projects."
 feature_row: 
   - image_path: /assets/images/PortfolioFeatureBannerTemplate.png
-    title: "Audio Portfolio Reel"
+    title: "Audio Demo Reel"
     excerpt: "Page showcasing my Audio Redesign and Technical Implemenation Reel"
     url: "/DesignReel"
     btn_label: "See more"
