@@ -30,7 +30,7 @@ Additionally we have miscellaneous sounds like a Camera shutter, to mimic the me
 The second part of the Vandal sounds to remake was the reload, which was pulled from the same sample library the gunshots were sourced from. The most manipulation came in the form of moving around parts of the reload to better fit the look of the vandal and more accurately reflect the apparent materials of the rifle
 
 
-![Vandal Redesign file screenshot](/assets/images/writeup-images/VandalWorkScreenshot.png){: .align-center}
+![Vandal Redesign file screenshot](/assets/images/cypher-writeup-images/VandalWorkScreenshot.png){: .align-center}
 
 
 # Cypher's Invisible Utility
@@ -42,7 +42,7 @@ Cypher is centered around stealthy info gathering and cunning tactics to gain th
 All of the cloaking sounds we're made from the same Helm patch. But manipulated to give each ability it's own distinct cloak. My main idea for the cloak sound was wholly inspired by the predator and uses fading clicks to convey the idea of the item going invisible.
 
 
-![Cloak design Helm Patch](/assets/images/writeup-images/HelmCloakScreenshot.png){: .align-center}
+![Cloak design Helm Patch](/assets/images/cypher-writeup-images/HelmCloakScreenshot.png){: .align-center}
 
 
 # Designing the Abilities
@@ -53,19 +53,19 @@ After finishing the cloaking sounds for each ability I went down the line workin
 ## The Cage
 
 
-![Cage Opening Screenshot](/assets/images/writeup-images/CageOpenScreenshot.png){: .align-center}
+![Cage Opening Screenshot](/assets/images/cypher-writeup-images/CageOpenScreenshot.png){: .align-center}
 
 
 The first ability I worked on redesigning was the cage. I wanted a kind of "metal mesh" feel when activating the cage. I thought of this primarily because of its look when activated. This sound was achieved by having 2 different Helm patches in which one part was a percussive front end, and a "metal-like, twangy" tail end.
 
 
-![Helm Cage Open Patch](/assets/images/writeup-images/HelmCageOpenScreenshot.png){: .align-center}
+![Helm Cage Open Patch](/assets/images/cypher-writeup-images/HelmCageOpenScreenshot.png){: .align-center}
 
 
 Something else that I wanted to mess with was using different pitches to change how the sound feels. While I ended up only using 1 of the takes in the final redesign, it's still an idea I find interesting enough to try in future projects.
 
 
-![Helm Cage second open Patch](/assets/images/writeup-images/HelmCageScreenshot2.png){: .align-center}
+![Helm Cage second open Patch](/assets/images/cypher-writeup-images/HelmCageScreenshot2.png){: .align-center}
 
 
 ### Closing the Cage
@@ -74,7 +74,7 @@ Something else that I wanted to mess with was using different pitches to change 
 For the close of the cage I went with a resonant hit preset from the Alchemy synthesizer modifying it to make it sound similar to a radio transmission tuning out.
 
 
-![Alchemy Preset for Cage](/assets/images/writeup-images/AlchemyCageScreenshot.png){: .align-center}
+![Alchemy Preset for Cage](/assets/images/cypher-writeup-images/AlchemyCageScreenshot.png){: .align-center}
 
 
 The main idea of this sound being used for the cage closing was mainly from the way in which it closes, which reminded me of old CRT TVs turning on/off with the color of the broadcast very quickly turning to white and then immediately to the black slate of the screen. The sound mimics this in there being a burst of "transmission sound" to communicate the cage closing.
@@ -83,11 +83,11 @@ The main idea of this sound being used for the cage closing was mainly from the 
 
 After the Cage sounds I went to redesign the Tripwire and all of its parts. Unlike the cage, most parts of the tripwires redesign are sampled layers.
 
-![Tripwire Example Image](/assets/images/writeup-images/TripwireExampleImage.png){: .align-center}
+![Tripwire Example Image](/assets/images/cypher-writeup-images/TripwireExampleImage.png){: .align-center}
 
 For the pullout I took the sound of a poker chip tapping wood along with a metal coin tapping against metal for the clicks that occur when Cypher shuffles the tripwire in his hands and pitch shifted each subsequent shuffle to keep it from sounding repeated. Additionally, cloth movement is overlaid to better simulate the movement cyphers' arms are doing to mimic the movement during the ability pullout.
 
-![Tripwire Pullout Work Image](/assets/images/writeup-images/TripwireWorkImage.png){: .align-center}
+![Tripwire Pullout Work Image](/assets/images/cypher-writeup-images/TripwireWorkImage.png){: .align-center}
 
 The idea of a poker chip came directly from Cyphers backstory and reputation as a "high roller" in the universe of Valorant making shady deals and such.
 
@@ -95,14 +95,14 @@ The idea of a poker chip came directly from Cyphers backstory and reputation as 
 
 Next is the placement of the Trip, which I made with various samples including A piece of metal being scratched on stone to indicate the attached surface, heavily manipulated Air hissing for the deployment, and a camera shutter for the final lock of the mechanism.
 
-![Trip Placement Work Image 1](/assets/images/writeup-images/TripwireSample1.png){: .align-center}
-![Trip Placement Work Image 2](/assets/images/writeup-images/TripwireSample2.png){: .align-center}
-![Trip Placement Work Image 3](/assets/images/writeup-images/TripwireSample3.png){: .align-center}
+![Trip Placement Work Image 1](/assets/images/cypher-writeup-images/TripwireSample1.png){: .align-center}
+![Trip Placement Work Image 2](/assets/images/cypher-writeup-images/TripwireSample2.png){: .align-center}
+![Trip Placement Work Image 3](/assets/images/cypher-writeup-images/TripwireSample3.png){: .align-center}
 
 
 ### Tripwire Recall 
 
-![Tripwire Recall Image](/assets/images/writeup-images/TripwireRecallExample.png){: .align-center}
+![Tripwire Recall Image](/assets/images/cypher-writeup-images/TripwireRecallExample.png){: .align-center}
 
 For the recall of the trip I used a "fusion driver" preset on Alchemy to mimic the "magnetic" energy that cypher seemingly recalls the tripwire with.
 
@@ -112,11 +112,11 @@ I reversed the original synthesized sound to have it get faster as the tripwire 
 
 Finally for the camera, every part of the sound here is sampled as opposed to the cage, or tripwire. 
 
-![Camera Placement Example Image](/assets/images/writeup-images/CameraPlacementExample.png){: .align-center}
+![Camera Placement Example Image](/assets/images/cypher-writeup-images/CameraPlacementExample.png){: .align-center}
 
 The placement sound of the camera is a lock being closed. and the sound of the camera opening is simply a camera shutter moving.
 
 The main choice for these samples was simply what sounds closest to a metal attachment and a camera priming.
 
-![Camera Sample Images](/assets/images/writeup-images/CameraSample1.png){: .align-center}
-![Camera Sample Images](/assets/images/writeup-images/CameraSample2.png){: .align-center}
+![Camera Sample Images](/assets/images/cypher-writeup-images/CameraSample1.png){: .align-center}
+![Camera Sample Images](/assets/images/cypher-writeup-images/CameraSample2.png){: .align-center}
