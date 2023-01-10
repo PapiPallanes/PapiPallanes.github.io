@@ -4,7 +4,7 @@ layout: splash
 header: 
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "/assets/images/meta-data-imgaes/YeezyCropped.jpg"
+  overlay_image: "/assets/images/meta-data-images/YeezyCropped.jpg"
 excerpt: ""
 intro:
  - excerpt: "Thanks for coming to my website! Here you can find my recent work as well as personal projects I've worked on!"
