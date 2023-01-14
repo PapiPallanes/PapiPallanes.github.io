@@ -23,7 +23,7 @@ feature_row:
     url: "/portfolio"
     btn_label: "See More"
     btn_class: "btn--info"
-  - image_path: /assets/images/home-page-images/ImplementationBanner.png
+  - image_path: /assets/images/home-page-images/TechPortfolioBanner.jpg
     title: "Implementation and Middleware Projects"
     excerpt: "Archive showing my work within middleware and game engines from FMOD and WWise to Unreal and Unity"
     url: "/implementation"
