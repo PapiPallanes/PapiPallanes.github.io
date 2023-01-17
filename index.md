@@ -17,7 +17,7 @@ feature_row:
     url: "/DesignReel"
     btn_label: "See more"
     btn_class: "btn--info"
-  - image_path: /assets/images/home-page-images/PortfolioFeatureBanner.png
+  - image_path: /assets/images/home-page-images/PortfolioBanner.jpg
     title: "Audio Redesigns"
     excerpt: "Archive of my personal and school assigned Audio Redesigns. "
     url: "/portfolio"
